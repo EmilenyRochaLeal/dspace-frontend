@@ -183,7 +183,3 @@ Caso o erro **"JavaScript heap out of memory"** ocorra:
     ```
 
 4. Para configurações de prioridade menor, utilize o arquivo `lazy-theme.module.ts`.
-
-## Conclusão
-
-O projeto foi configurado com sucesso, erros corrigidos, e as customizações aplicadas. Agora o frontend do DSpace está personalizado e pronto para uso. 
